@@ -1,2 +1,2 @@
-# PSO
-precision-specific-operations
+# PSC
+precision-specific-Calculation
