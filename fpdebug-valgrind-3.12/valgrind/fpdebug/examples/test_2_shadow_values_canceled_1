@@ -1,0 +1,44 @@
+0: 0xFFEFFF730 of type double
+    original:          5.92092916917863 * 10^-8, 23/120 bit
+    shadow value:      0.00000000000000 * 10^-1, 0/120 bit
+    absolute error:   -5.92092916917863 * 10^-8, 23/120 bit
+    relative error:    1.00000000000000 * 10^0, 1/120 bit
+    maximum number of canceled bits: 24
+    origin of maximum cancellation: 0x400888: main (test_2.c:19)
+    last operation: 0x400897: main (test_2.c:21)
+    operation count (max path): 4
+
+4: 0xFFF000098 of type float
+    original:          5.92092916917863 * 10^-8, 23/120 bit
+    shadow value:      0.00000000000000 * 10^-1, 0/120 bit
+    absolute error:   -5.92092916917863 * 10^-8, 23/120 bit
+    relative error:    1.00000000000000 * 10^0, 1/120 bit
+    maximum number of canceled bits: 24
+    origin of maximum cancellation: 0x400888: main (test_2.c:19)
+    last operation: 0x400897: main (test_2.c:21)
+    operation count (max path): 4
+
+5: 0xFFEFFFFB0 of type double
+    original:          1.19209289550781 * 10^-7, 1/120 bit
+    shadow value:      5.99999978589949 * 10^-8, 24/120 bit
+    absolute error:   -5.92092916917863 * 10^-8, 23/120 bit
+    relative error:    9.86821563409606 * 10^-1, 120/120 bit
+    maximum number of canceled bits: 24
+    origin of maximum cancellation: 0x400888: main (test_2.c:19)
+    last operation: 0x400888: main (test_2.c:19)
+    operation count (max path): 3
+
+6: 0xFFF00009C of type float
+    original:          1.19209289550781 * 10^-7, 1/120 bit
+    shadow value:      5.99999978589949 * 10^-8, 24/120 bit
+    absolute error:   -5.92092916917863 * 10^-8, 23/120 bit
+    relative error:    9.86821563409606 * 10^-1, 120/120 bit
+    maximum number of canceled bits: 24
+    origin of maximum cancellation: 0x400888: main (test_2.c:19)
+    last operation: 0x400888: main (test_2.c:19)
+    operation count (max path): 3
+
+4 out of 7 shadow values are in this file
+4 out of 7 shadow values have more than 10 canceled bits
+total number of floating-point operations: 4
+number of executed blocks: 18,526

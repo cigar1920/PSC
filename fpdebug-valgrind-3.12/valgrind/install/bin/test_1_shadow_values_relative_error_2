@@ -1,0 +1,24 @@
+1: 0xFFEFFF8F0 of type double
+    original:          1.00000000000000 * 10^0, 1/120 bit
+    shadow value:      1.00000025000000 * 10^0, 49/120 bit
+    absolute error:    2.50000002921524 * 10^-7, 27/120 bit
+    relative error:    2.49999940421539 * 10^-7, 120/120 bit
+    maximum number of canceled bits: 0
+    last operation: 0x4007B7: main (test_1.c:14)
+    operation count (max path): 5
+    graph dumped: ./test_1_1_0.vcg
+
+2: 0xFFF0001FC of type float
+    original:          1.00000000000000 * 10^0, 1/120 bit
+    shadow value:      1.00000025000000 * 10^0, 49/120 bit
+    absolute error:    2.50000002921524 * 10^-7, 27/120 bit
+    relative error:    2.49999940421539 * 10^-7, 120/120 bit
+    maximum number of canceled bits: 0
+    last operation: 0x4007B7: main (test_1.c:14)
+    operation count (max path): 5
+
+2 out of 2 shadow values are in this file
+2 out of 2 shadow values have an error
+1 graph(s) have been dumped
+total number of floating-point operations: 5
+number of executed blocks: 18,319

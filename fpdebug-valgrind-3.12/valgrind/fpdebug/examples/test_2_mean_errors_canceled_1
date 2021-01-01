@@ -1,0 +1,10 @@
+0x400888: main (test_2.c:19) Sub32F0x4 (1)
+    avg error:  9.86821563409606 * 10^-1, 120/120 bit
+    max error:  9.86821563409606 * 10^-1, 120/120 bit
+    canceled bits - max: 24, avg: 24
+    cancellation badness - max: 1, avg (sum/(count*max)): 100.0%
+    introduced error (max path):  9.86821523936746 * 10^-1, 118/120 bit
+    origin of the arguments (max path): 0x400809, 0x4007FB
+
+1 out of 4 operations are listed in this file
+3 operations have been skipped because no bits were canceled

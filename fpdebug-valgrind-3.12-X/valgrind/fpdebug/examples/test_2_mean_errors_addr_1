@@ -1,0 +1,26 @@
+0x400809: main (test_2.c:15) Add32F0x4 (1)
+    avg error:  3.94728595489432 * 10^-8, 120/120 bit
+    max error:  3.94728595489432 * 10^-8, 120/120 bit
+    canceled bits - max: 0, avg: 0
+    cancellation badness - max: 0, avg (sum/(count*max)): 0.0%
+    introduced error (max path):  3.94728595489432 * 10^-8, 120/120 bit
+    origin of the arguments (max path): 0x4007FB, 0x0
+
+0x400888: main (test_2.c:19) Sub32F0x4 (1)
+    avg error:  9.86821563409606 * 10^-1, 120/120 bit
+    max error:  9.86821563409606 * 10^-1, 120/120 bit
+    canceled bits - max: 24, avg: 24
+    cancellation badness - max: 1, avg (sum/(count*max)): 100.0%
+    introduced error (max path):  9.86821523936746 * 10^-1, 118/120 bit
+    origin of the arguments (max path): 0x400809, 0x4007FB
+
+0x400897: main (test_2.c:21) Sub32F0x4 (1)
+    avg error:  1.00000000000000 * 10^0, 1/120 bit
+    max error:  1.00000000000000 * 10^0, 1/120 bit
+    canceled bits - max: 0, avg: 0
+    cancellation badness - max: 0, avg (sum/(count*max)): 0.0%
+    introduced error (max path):  1.31784365903942 * 10^-2, 114/120 bit
+    origin of the arguments (max path): 0x400888, 0x0
+
+3 out of 4 operations are listed in this file
+1 operations have been skipped because they are accurate

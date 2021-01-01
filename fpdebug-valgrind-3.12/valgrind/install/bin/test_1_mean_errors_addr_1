@@ -1,0 +1,9 @@
+0x4007B7: main (test_1.c:14) Add32F0x4 (5)
+    avg error:  1.49999974252920 * 10^-7, 119/120 bit
+    max error:  2.49999940421539 * 10^-7, 120/120 bit
+    canceled bits - max: 0, avg: 0
+    cancellation badness - max: 0, avg (sum/(count*max)): 0.0%
+    introduced error (max path):  2.49999940421539 * 10^-7, 120/120 bit
+    origin of the arguments (max path): 0x4007B7, 0x0
+
+1 out of 1 operations are listed in this file
